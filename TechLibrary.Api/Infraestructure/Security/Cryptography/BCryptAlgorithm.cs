@@ -1,5 +1,5 @@
 ﻿using BCrypt.Net;
-using TechLibrary.Api.Entities;
+using TechLibrary.Api.Domain.Entities;
 
 namespace TechLibrary.Api.Infraestructure.Security.Cryptography
 {

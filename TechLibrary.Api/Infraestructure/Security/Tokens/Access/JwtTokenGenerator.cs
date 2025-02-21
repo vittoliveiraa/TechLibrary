@@ -2,7 +2,7 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using TechLibrary.Api.Entities;
+using TechLibrary.Api.Domain.Entities;
 
 namespace TechLibrary.Api.Infraestructure.Security.Tokens.Access
 {

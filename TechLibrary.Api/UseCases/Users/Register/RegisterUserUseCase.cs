@@ -1,5 +1,5 @@
 ﻿using FluentValidation.Results;
-using TechLibrary.Api.Entities;
+using TechLibrary.Api.Domain.Entities;
 using TechLibrary.Api.Infraestructure.DataAccess;
 using TechLibrary.Api.Infraestructure.Security.Cryptography;
 using TechLibrary.Api.Infraestructure.Security.Tokens.Access;

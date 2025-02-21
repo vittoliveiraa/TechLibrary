@@ -1,4 +1,4 @@
-﻿namespace TechLibrary.Api.Entities
+﻿namespace TechLibrary.Api.Domain.Entities
 {
     public class User
     {
